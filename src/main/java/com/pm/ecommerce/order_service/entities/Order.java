@@ -22,11 +22,7 @@ public class Order {
 
 //    private Customer customer;
 
-    private String name;
-
-    private String email;
-
-    private String password;
+    private String status;
 
     public Order() {
     }

@@ -13,11 +13,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6ce98803-d261-4c05-abb2-75085430d5d9" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/pm/ecommerce/order_service/entities/Order.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/pm/ecommerce/order_service/entities/Order.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/pm/ecommerce/order_service/repositories/OrderRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/pm/ecommerce/order_service/repositories/OrderRepository.java" afterDir="false" />
-    </list>
+    <list default="true" id="6ce98803-d261-4c05-abb2-75085430d5d9" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -81,6 +77,7 @@
       <workItem from="1603052367437" duration="308000" />
       <workItem from="1603052705830" duration="14909000" />
       <workItem from="1603137988561" duration="1711000" />
+      <workItem from="1603140631734" duration="462000" />
     </task>
     <servers />
   </component>
