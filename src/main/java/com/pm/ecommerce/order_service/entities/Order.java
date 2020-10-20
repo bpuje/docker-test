@@ -2,29 +2,24 @@ package com.pm.ecommerce.order_service.entities;
 
 import lombok.Data;
 
-import javax.persistence.Entity;
-import javax.persistence.GeneratedValue;
-import javax.persistence.GenerationType;
-import javax.persistence.Id;
-import java.util.Date;
+import javax.persistence.*;
 
 @Entity
 @Data
+@Table(name = "oorder")
 public class Order {
 
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private int id;
 
-//    private Date date;
+    private String name;
 
-//    private String status;
+    private String email;
 
-//    private Customer customer;
-
-    private String status;
+    private String password;
 
     public Order() {
-    }
 
+    }
 }
